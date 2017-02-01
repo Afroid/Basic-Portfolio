@@ -31,7 +31,7 @@ h2{
 	text-align: center;
 	vertical-align: center;
 	line-height: 100px;
-	margin-left: 15%;
+	margin-left: 10%;
 }
 
 .headerFont{
@@ -58,8 +58,10 @@ ul{
 .aboutMeDiv{
 	width: 650px;
 	height: 650px;
+	position: fixed;
 	background-color: white;
-	margin-left: 15%;
+	margin-left: 10%;
+	margin-top: 5%;
 }
 
 .tealFont{
@@ -69,6 +71,11 @@ ul{
 .connectWithMe{
 	width: 270px;
 	height: 270px;
+	position: relative;
 	background-color: white;
-	margin-right: 15%;
+	margin-left: 10%;
+	margin-right: 5%;
+	margin-top: 5%;
+	float: right;
+	text-align: center;
 }
